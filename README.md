@@ -1,4 +1,4 @@
-# QuizDen
+# QuizTrivia
 
 ![qq](https://user-images.githubusercontent.com/14056189/90792874-d92ea380-e32c-11ea-855d-0c604f2ea20b.PNG)
 
@@ -32,11 +32,7 @@ A simple and minimalist quiz building and participating application. After build
 
 - MongoDB (NoSQL database, Mongoose ODM used for queries)
 
-### UI Elements
 
-- The Logo is an Icon from [IconScout](https://iconscout.com/icon/cube-1957280)
-- The Emojis are from Emojipedia, Getemoji etc.
-- Everything else is custom made
 
 ## Screenshots
 
