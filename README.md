@@ -46,7 +46,6 @@ A minimal landing page
 
 List of quizzes created by the user is listed here with sharable codes. User can both build and attend quizzes. Can see statistics of him/herself and for every quizzes curated by him/her.
 
-![image](https://user-images.githubusercontent.com/14056189/90793239-4cd0b080-e32d-11ea-9b53-5abeda39eacd.png)
 
 ### Quiz Builder
 
